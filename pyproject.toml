@@ -1,5 +1,5 @@
 [project]
-name = "case-uco-lib"
+name = "caselib"
 version = "0.0.1"
 description = "Pydantic-based definitions for the CASE/UCO 2.0 ontology"
 requires-python = ">=3.11"
